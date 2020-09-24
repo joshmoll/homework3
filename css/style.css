@@ -15,7 +15,7 @@ body{
   font-family: 'Andika', sans-serif;
   background-size: cover ;
   background-position: center;
-  background-image: url("../imgs/pigeon-background.JPEG");
+  background-image: url("../images/pigeon-background.JPEG");
   background-color: #DDDDDD;
   background-repeat: no-repeat;
 }
@@ -25,7 +25,7 @@ main{
 }
 
 h1{
-  color: #c12258;
+  color: #C12258;
   font-size: 2em;
   text-align: center;
   line-height: 2;
@@ -41,7 +41,7 @@ p{
 
 a{
   font-size: 16px;
-  color:#C12258;
+  color:#B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
@@ -60,9 +60,7 @@ table{
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
-  align-items: center;
-  vertical-align: center;
-  text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
 }
 
